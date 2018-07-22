@@ -1,0 +1,19 @@
+{
+    "name": "aws-nodejs-sdk-ec2-instance",
+    "version": "0.0.1",
+    "description": "EC2 lifecycle using AWS Nodejs SDK",
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+    ],
+    "scripts": {
+      "test": "node ec2_createinstances.js"
+    },
+    "author": "Siddharth Salunke",
+    "dependencies": {
+        "aws-sdk":"^2.279.1"
+    }
+  }
+  
